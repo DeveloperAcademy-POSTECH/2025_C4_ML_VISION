@@ -16,7 +16,3 @@ struct VisionObjectRecognitionView: UIViewControllerRepresentable {
     func updateUIViewController(_ uiViewController: VisionObjectRecognitionViewController, context: Context) {
     }
 }
-
-#Preview {
-    VisionObjectRecognitionView()
-}
